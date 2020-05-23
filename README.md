@@ -13,7 +13,6 @@
 - Technologies Used
 ​- Project Description
 - Difficulties Faced
-- Future Development
 - License
  
 # <span style="color: #459ff3;">**Contributors**</span>
@@ -29,11 +28,12 @@ Npm install
 
 # <span style="color: #459ff3;">**Technologies Used**</span>
 
--Node.js
--Javascript
+-Node
+-React
 -Express
 -Mongoose.js
 -mongoDB
+
 
 # <span style="color: #459ff3;">**Usage**</span>
 
@@ -43,7 +43,7 @@ Employee Directory
 Created a employee directory with React. You can view entire emp directory at once or sort. Sort the table, and also filter the table.
 # <span style="color: #459ff3;">**Difficulties Faced**</span>
 
--Node.js (pure backend, someone elses code)
+The search feature for employee directory
 
 # <span style="color: #459ff3;">**TEST**</span>
 
